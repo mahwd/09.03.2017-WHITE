@@ -1,0 +1,351 @@
+
+
+
+/*   ------  s7  stat   start   ----- */
+
+#s7 {
+	margin-bottom: 400px;
+	background: #fff;
+}
+
+#s7 .wrap{
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+#s7 .wrap .stat-head{
+
+}
+
+#s7 .wrap .stat-head h2{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	text-transform: none;
+	font-size: 40px;
+	color: #333;
+}
+
+#s7 .wrap .stat-head .buttons div{
+	display: inline-block;
+	margin-left: 5px;
+	width: 10px;
+	height: 10px;
+	border-radius: 100%;
+	border: 2px solid #333;
+	vertical-align: middle;
+	cursor: pointer;
+}
+
+/*#s7 .wrap .stat-head .buttons div{
+	width: 20px;
+	height: 20px;
+	background-color: #333;
+
+}	*/
+
+#s7 .wrap .stat-con {
+	margin-top: 80px;
+	font-weight: 300;
+	font-size: 26px;
+	line-height: 38px;
+}
+
+#s7 .wrap .stat-body {
+	padding-top: 46px;
+    font-weight: 300;
+    font-size: 16px;
+    color: #666;
+}
+/*    -------  s7 blog  end   -------   */
+
+
+/*    -------  s7 blog  start   -------   */
+#s7 .wrap .blog{
+	margin-top: 50px;
+	display: flex;
+	justify-content: space-between;
+}
+
+#s7 .wrap .blog .blog-item {
+	width: 370px;
+
+}
+
+#s7 .wrap .blog .blog-foto{
+	height: 215px;
+	overflow: hidden;
+	box-sizing: border-box;
+	background: black;
+}
+
+#s7 .wrap .blog .blog-foto img{
+
+	height: 100%;
+}
+
+#s7 .wrap .blog .blog-foto img:hover{
+	transition: .5s;
+	opacity: 0.2;
+
+
+}
+
+#s7 .wrap .blog .blog-text{
+	padding: 23px 0 0;
+}
+
+#s7 .wrap .blog .blog-text a{
+	text-decoration: none;
+	font-weight: 300;
+    line-height: 34px;
+    font-size: 24px;
+    color: #333;
+
+}
+
+#s7 .wrap .blog .blog-text ul{
+	padding: 0;
+	margin: 0;
+	padding-top: 2px;
+	list-style-type: none;
+}
+
+#s7 .wrap .blog .blog-text ul li{
+	padding-right: 12px;
+	display: inline;
+	color: #ccc;
+}
+
+#s7 .wrap .blog .blog-text ul li a{
+	font-size: 14px;
+	padding-right: 12px;
+	font-weight: 300;
+	color: #ccc;
+}
+
+#s7 .wrap .blog .blog-text ul li a:hover{
+	color: #666;
+}
+
+/*    -------  s7 blog  end   -------   */
+
+
+
+
+
+/*   -------   s8  blog  start  ---------*/
+#s8{
+	width: 100%;
+	background-color: #1C1C1C;
+	position: fixed;
+	z-index: -1;
+	bottom: 0;
+}
+
+#s8 .wrap{
+	padding-top: 60px;
+	padding-bottom: 80px;
+	display: flex;
+	justify-content: space-between;
+}
+
+#s8 .wrap .feature{
+
+}
+
+#s8 .wrap .feature .feathead{
+
+}
+
+
+
+#s8 .wrap .feature .feathead h4{
+	font-size: 20px;
+	line-height: 25px;
+	color: #fff;
+	font-weight: 300;
+	padding-bottom: 10px;
+}
+
+#s8 .wrap .feature .featblog{
+
+}
+
+#s8 .wrap .feature .featblog .featblogitem{
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+
+#s8 .wrap .feature .featblog .featblogitem .foto{
+	width: 70px;
+	height: 50px;
+	overflow: hidden;
+}
+
+#s8 .wrap .feature .featblog .featblogitem .foto img{
+	width: 130%;
+	height: 100%;
+}
+
+#s8 .wrap .feature .featblog .featblogitem .txt{
+
+}
+
+#s8 .wrap .feature .featblog .featblogitem .txt a{
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 17px;
+	color: #ccc;
+	display: block;
+}
+
+#s8 .wrap .feature .featblog .featblogitem .txt a:hover{
+
+	color: #666;
+}
+
+#s8 .wrap .feature .featblog .featblogitem .txt span{
+	padding: 0;
+	margin: 0;
+	color: #666;
+	font-size: 11px;
+}
+
+
+
+
+#s8 .wrap .about{
+	margin-left: -85px;
+}
+
+#s8 .wrap .about .abouthead{
+
+}
+
+#s8 .wrap .about .abouthead h4{
+	font-size: 20px;
+	line-height: 25px;
+	color: #fff;
+	font-weight: 300;
+	padding-bottom: 10px;
+}
+
+#s8 .wrap .about .aboutcontent p{
+	font-size: 12px;
+	line-height: 24px;
+	color: #999;
+	margin-bottom: 20px;
+}
+
+#s8 .wrap .about .abouticon{
+	display: flex;
+	justify-content:space-between;
+}
+#s8 .wrap .about .abouticon a {
+	margin-left: 10px;
+	text-decoration: none;
+	color: #333;
+	border: 1px solid #333;
+}
+
+#s8 .wrap .about .abouticon a:first-child {
+	margin-left: 0px;
+}
+
+#s8 .wrap .about .abouticon a:hover{
+	text-decoration: none;
+	color: #ccc;
+
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+}
+
+#s8 .wrap .about .abouticon a i{
+	text-align: center;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 24px;
+}
+
+
+
+
+#s8 .wrap .contact {
+	width: calc(33.3332% - 15px);
+}
+
+#s8 .wrap .contact .contacthead{
+
+}
+
+#s8 .wrap .contact .contacthead h4{
+	font-size: 20px;
+	line-height: 25px;
+	color: #fff;
+	font-weight: 300;
+	padding-bottom: 10px;
+}
+
+#s8 .wrap .contact .contactform form{
+
+}
+
+#s8 .wrap .contact .contactform form input{
+	font-size: 12px;
+	padding: 10px 8px;
+	color: #333;
+	background-color: inherit;
+	border: 2px solid #242424;
+}
+
+#s8 .wrap .contact .contactform form input::-webkit-input-placeholder{
+	color: #333;
+}
+
+
+#s8 .wrap .contact .contactform form input:focus{
+	outline: none;
+	border: 2px solid white;
+	color: #666;
+}
+
+#s8 .wrap .contact .contactform form textarea{
+	font-size: 12px;
+	margin-top: 10px;
+	color: #333;
+	background-color: inherit;
+	border: 2px solid #242424;
+	resize: none;
+}
+
+#s8 .wrap .contact .contactform form textarea::-webkit-input-placeholder{
+	color: #333;
+}
+
+#s8 .wrap .contact .contactform form textarea:focus{
+	outline: none;
+	border: 2px solid white;
+}
+#s8 .wrap .contact .contactform form a{
+	padding-top: 50px;
+	text-decoration: none;
+}
+#s8 .wrap .contact .contactform form span{
+
+	font-weight: 900;
+	text-decoration: none;
+	padding: 13px 30px;
+	margin-bottom: 50px;
+	background-color: inherit;
+	border: 2px solid #333;
+	color: #333;
+}
+
+#s8 .wrap .contact .contactform form span:hover{
+	border: 2px solid #ccc;
+	color: #ccc;
+}
+
+/*   -------   s8  blog  end ---------*/

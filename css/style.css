@@ -1,0 +1,118 @@
+body {
+    overflow-x:hidden;
+    position:relative;
+    margin: 0;
+    padding:0;
+    font-family: 'Roboto', sans-serif;
+    font-weight:300;
+    font-size: 13px;
+    line-height: 20px;
+    color: #666;
+    background-color:#fff;
+    /*overflow: hidden;*/
+}
+#s1,#s2,#s3,#s4,#s5,#s6,#s7,#s8 {
+  background: #fff;
+}
+
+.wrap{
+	width:1170px;
+	margin:0 auto;
+	/*border: 1px solid black;*/
+	height: auto;
+	box-sizing: border-box;
+  position: relative;
+}
+.row{
+	width:100%;
+	height:auto;
+	display: inline-block;
+  position: relative;
+
+}
+.mar-t1{
+	margin-top: 10px;
+}
+.mar-t2{
+	margin-top: 20px;
+}
+.mar-t3{
+	margin-top: 30px;
+}
+.mar-t4{
+	margin-top: 40px;
+}
+.mar-t5{
+	margin-top: 50px;
+}
+.mar-b1{
+	margin-bottom: 10px;
+}
+.mar-b2{
+	margin-bottom: 20px;
+}
+.mar-b3{
+	margin-bottom: 30px;
+}
+.mar-b4{
+	margin-bottom: 40px;
+}
+.mar-b5{
+	margin-bottom: 50px;
+}
+.col1{
+	width: 8.3333%
+}
+.col2{
+	width:16.6666%;
+}
+.col3{
+	width:24.9999%;
+}
+.col4{
+	width:33.3332%;
+}
+.col5{
+	width:41.6665%;
+}
+.col6{
+	width:49.9998%;
+}
+.col7{
+	width:58.3331%;
+}
+.col8{
+	width:66.6664%;
+}
+.col9{
+	width:74.9997%;
+}
+.col10{
+	width:83.333%;
+}
+.col11{
+	width:91.6663%;
+}
+.col12{
+	width:100%;
+}
+img{
+	width:100%;
+}
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+.cl {
+	clear: both;
+}
+[class*='col']{
+	box-sizing: border-box;
+}
+a {
+	text-decoration: none;
+}
+::selection {background: transparent; color:rgb(217, 22, 227);}
+::-moz-selection {background: transparent; color:#000;}

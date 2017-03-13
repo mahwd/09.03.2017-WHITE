@@ -1,0 +1,209 @@
+@media (max-width:480px) {
+    body {
+      display: none;
+    }
+}
+
+/*======================================================================================================================================*/
+
+@media (min-width:480px) and (max-width:768px) {
+section#s4 .wrap {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0 5px;
+}
+section#s4 .wrap .multi-container h1 p {
+  font-size: 150% !important;
+}
+section#s4 .wrap .row .multi-text-container {
+  width: 100%;
+}
+section#s4 .wrap .iphone-container img {
+  width: 60%;
+  margin-top: 40px;
+}
+section#s4 .wrap .iphone-container::before {
+ clear: both;
+}
+section#s4 .wrap .iphone-container {
+  width: 100%;
+  text-align: center;
+}
+section#s4 .wrap .row .btn-container #btn-l  {
+  width:20%;
+  font-size: 80%;
+}
+section#s4 .wrap .row .btn-container #btn-r  {
+  width:25%;
+  font-size: 80%;
+}
+
+                                        /*-----------------------------section 5-----------------------------*/
+
+section#s5 .wrap {
+  width: 100%;
+}
+section#s5 .wrap .row .ourClients-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 75%;
+  margin: 0 auto;
+}
+section#s5 .wrap .row .ourClients-container .ourClients-items {
+  width: 28%;
+}
+section#s5 .wrap .row>p {
+  font-size: 150%;
+  margin-left: 5px;
+}
+section#s5 .wrap .row .icons-container {
+  width: 20%;
+  display: flex;
+  flex-direction:row-reverse;;
+  justify-content: center;
+  margin-right: 5px;
+}
+section#s5 .wrap .row .icons-container i {
+  font-size: 200%;
+}
+section#s5 .wrap .row .icons-container .left-icon {
+  width: 55px;
+  height: 100%;
+  line-height: 100%;
+  box-sizing: border-box;
+  padding: 15px 20px;
+  line-height: 10px;
+}
+section#s5 .wrap .row .icons-container .right-icon {
+  width: 55px;
+  height: 100%;
+  line-height: 100%;
+  box-sizing: border-box;
+  padding: 15px 20px;
+  line-height: 10px;
+}
+
+                                  /*-----------------------------section 6-----------------------------*/
+
+section#s6 {
+  width: 100%;
+  overflow: hidden;
+}
+section#s6 .wrap {
+  width: 100%;
+}
+section#s6 .wrap .teamHeader .icons-container {
+  top: 5px;
+}
+section#s6 .wrap .teamHeader {
+  margin-top: 20px;
+}
+}
+
+/*======================================================================================================================================*/
+
+@media (min-width:768px) and (max-width:992px) {
+section#s4 .wrap {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0 5px;
+}
+section#s4 .wrap .multi-container h1 p {
+  font-size: 150% !important;
+}
+section#s4 .wrap .row .multi-text-container {
+  width: 55%;
+}
+section#s4 .wrap .iphone-container {
+  width: 38%;
+}
+section#s4 .wrap .row .btn-container #btn-l  {
+  width:27%;
+  font-size: 80%;
+}
+section#s4 .wrap .row .btn-container #btn-r  {
+  width:32%;
+  font-size: 80%;
+}
+                                          /*-----------------------------section 5*-----------------------------/
+
+section#s5 .wrap {
+  width: 100%;
+}
+section#s5 .wrap .row {
+  width: 100%;
+  overflow: hidden;
+}
+section#s5 .wrap .row>p {
+  margin-left: 5px;
+}
+section#s5 .wrap .row .icons-container {
+margin-right: 5px;
+}
+
+                                          /*-----------------------------section 6-----------------------------*/
+
+section#s6 {
+  width: 100%;
+  overflow: hidden;
+}
+section#s6 .wrap {
+  width: 100%;
+}
+section#s6 .wrap .teamHeader .icons-container {
+  top: 5px;
+}
+section#s6 .wrap .teamHeader {
+  margin-top: 20px;
+}
+
+/*======================================================================================================================================*/
+
+@media (min-width:992px) and (max-width:1200px){
+section#s4 .wrap {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0 5px;
+}
+section#s4 .wrap .row .multi-text-container {
+  width: 50%;
+}
+section#s4 .wrap .iphone-container {
+  width: 38%;
+}
+section#s4 .wrap .row .multi-text-container #btn-r {
+  width: 25%;
+  font-size: 80%;
+}
+section#s4 .wrap .row .btn-container #btn-l  {
+  width:20%;
+  font-size: 80%;
+}
+
+                                          /*-----------------------------section 5-----------------------------*/
+/*section#s5 .wrap {
+  width: 100%;
+}*/
+/*#feature-txt {
+  margin-left: 15px;
+}*/
+/*section#s5 .wrap .row .icons-container {
+  margin-right:15px;
+}*/
+}
+
+
+/*======================================================================================================================================*/
+
+@media (min-width:1200px) {
+                                                /*-----------------------------section 4-----------------------------*/
+
+                                                /*-----------------------------section 5-----------------------------*/
+
+                                                /*-----------------------------section 6-----------------------------*/
+
+
+
+}

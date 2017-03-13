@@ -1,0 +1,373 @@
+@media (max-width:480px) {
+
+																																			/*header*/
+header {
+		width: 100%;
+}
+
+header .wrap {
+		width: 100%;
+}
+header .wrap .row{
+		width: 100%;
+}
+header .wrap .row .logo{
+		width:60%;
+}
+
+header.wrap .row .nav {
+		display: none;
+}
+header .wrap .row #search-form  {
+		display: none;
+}
+header .wrap .row {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+}
+header .wrap .row .accordion {
+		display: inline-block;
+		width: 40px;
+		height: 40px;
+		background: black;
+		color: white;
+}
+
+header  .wrap{
+		width: 100%;
+}
+header .wrap .row{
+		display: flex;
+		justify-content: space-around;
+		align-items: center;
+		width: 100%;
+}
+header .wrap .row .nav{
+		display: none;
+}
+header .wrap .row .nav nav{
+		display: none;
+}
+header .wrap .row .logo{
+		width:60%;
+}
+
+																							/*---------------------------section 1------------------------*/
+
+#s1 {
+	font-size: 13px;
+	line-height: 19px;
+	color: red;
+	width: 100%;
+}
+
+#s1 .wrap .row .col12 h1 span {
+	font-size: 13px;
+	width: 100%;
+	line-height: 19px;
+	color: red;
+}
+
+}
+
+
+/*========================================================================================================================================*/
+
+@media (min-width:480px) and (max-width:768px) {
+
+																											/*--------------------header-----------------*/
+
+header.wrap .row {
+	display: flex;
+	justify-content:space-between;
+}
+header .wrap .row #search-form {
+	width: 40%;
+}
+header .wrap .row .nav{
+	display: none;
+}
+header .wrap .row .accordion {
+	display: block;
+
+}
+header  .wrap{
+		width: 100%;
+}
+header .wrap .row .accordion {
+		display: inline-block;
+		width: 40px;
+		height: 40px;
+		background: black;
+		color: white;
+		margin: 20px 20px 0 0;
+		float: right;
+}
+header .wrap .row .logo{
+		width:45%;
+}
+																								/*------------------------section 1----------------------------*/
+
+
+}
+
+/*=======================================================================================================================================*/
+
+
+.clear:after {
+	content:'';
+	clear:both;
+	height:0;
+	visibility: hidden;
+	display:block;
+}
+
+
+
+@media (min-width:768px) and (max-width:992px) {
+
+																									/*-----------------------header-----------------------*/
+header.wrap .row {
+	display: flex;
+	justify-content:space-between;
+	padding: 0;
+}
+header .wrap .row #search-form {
+	width: 12%;
+	margin:0;
+}
+header .wrap .row .nav{
+	display: block;
+	width: 50%;
+	margin:0;
+}
+header  .wrap{
+		width: 100%;
+}
+header .wrap .row .logo{
+		width:22%;
+		margin:0;
+}
+header #search-form form {
+    display: none;
+}
+header #search-form form:before {
+    position:absolute;
+    left: 15px;
+    top:-2px;
+    height:40px;
+    line-height:40px;
+    font-size:15px;
+    color:#cccc;
+}
+header .wrap .row .nav nav ul li {
+	font-size: 10px;
+	width: 14%;
+	font-family: serif;
+	color: red;
+}
+header .wrap .row .nav nav {
+	width: 100%;
+}
+header .wrap .row .nav nav ul {
+	padding: 0;
+}
+header .wrap .row .nav {
+	width: 75%;
+	float: right;
+}
+header .wrap .row .nav nav ul li:nth-child(1) {
+width: 12%;
+}
+header .wrap .row .nav nav ul li a{
+padding: 5px 5px;
+line-height: 60px;
+text-align: center;
+}
+
+																							/*-----------------------------Section 1------------------------------*/
+
+section#s1{
+
+}
+
+
+}
+
+/*========================================================================================================================================*/
+
+@media (min-width:992px) and (max-width:1200px){
+
+																						/*---------------------------header-------------------------*/
+
+.wrap {
+	width: 100%;
+}
+header.wrap .row {
+	padding: 0;
+}
+header .wrap .row #search-form {
+	width: 20%;
+	margin:0;
+}
+																			/*nav*/
+header .wrap .row .nav{
+	width: 55%;
+	margin:0;
+}
+header .wrap .row .nav nav {
+	width: 100%;
+}
+header .wrap .row .nav nav ul li {
+	font-size: 10px;
+	width: 14%;
+	font-family: serif;
+	color: red;
+}
+header .wrap .row .nav nav ul {
+	padding: 0;
+}
+header .wrap .row .nav nav ul li:nth-child(1) {
+	width: 12%;
+}
+header .wrap .row .nav nav ul li a{
+	padding: 5px 5px;
+	line-height: 70px;
+	text-align: center;
+}
+
+																		/*-----------logo--------------*/
+header .wrap .row .logo{
+		width:17%;
+		margin:0;
+}
+
+															/*----------------search-form---------------*/
+
+header #search-form form {
+
+}
+header #search-form form:before {
+    position:absolute;
+    left: 15px;
+    top:-2px;
+    height:40px;
+    line-height:40px;
+    font-size:15px;
+    color:#cccc;
+}
+
+
+													/*--------------------section 1--------------------*/
+
+													/*--------------------section 2--------------------*/
+
+													/*--------------------section 3--------------------*/
+
+
+section#s3 {
+	width: 100%;
+}
+section#s3 .wrap {
+	width: 100%;
+}
+#s3 #myTab{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    list-style: none;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		width: 100%;
+}
+#s3 ul li{
+    padding: 0 ;
+}
+#s3 ul li a i{
+    /*width: 40px;*/
+    /*height: 40px;*/
+    /*margin: 0 auto;*/
+    /*background-repeat: no-repeat;*/
+    /*background-position: 0 -60px;*/
+    transition: transform 0.2s ease-in-out;
+
+}
+#s3 li a{
+    /*width: 190px;*/
+    /*height: 190px;*/
+    /*margin: 50px 0;*/
+    /*padding: 60px 0 0;*/
+    text-align: center;
+    border: 0 !important;
+    border-radius: 0;
+    color: #999;
+    font-size: 5em;
+    text-decoration: none;
+}
+
+}
+
+/*========================================================================================================================================*/
+
+@media (min-width:1200px) {
+																							/*------------------------header-----------------*/
+.wrap {
+	width: 1170px;
+}
+header .wrap .row .logo {
+	width: 14.5%;
+}
+header .wrap .row .nav {
+margin: 0;
+width: 60%;
+}
+#search-form {
+	width: 20%;
+}
+header .wrap .row .nav nav{
+float: left;
+}
+
+																							/*----------------------section1----------------------*/
+#s1 {
+
+}
+																							/*----------------------section3----------------------*/
+
+section#s3 {
+	width: 100%;
+}
+/*section#s3 .wrap {
+	width: 100%;
+}*/
+
+
+
+/*@media (min-width: 1200px) {
+ #s1 .wrap{
+ 	width: 100%;
+ }
+#s1.p p{
+	margin-bottom: 15px;
+    width: 680px;
+    font-weight: 300;
+    line-height: 34px;
+    font-size: 26px;
+}
+#s1 h1{
+	margin-bottom: 15px;
+    width: 680px;
+    font-weight: 300;
+    line-height: 34px;
+    font-size: 26px;
+}
+#s1 #carousel{
+	display: none;
+	visibility: hidden;
+}
+#s1 .button-read{
+	float: right;
+}
+}*/

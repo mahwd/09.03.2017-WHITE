@@ -1,0 +1,1075 @@
+@media (min-width: 1200px)  and  (max-width: 1366px)  {
+#s7{
+	width: 100%;
+}
+
+#s7 .wrap{
+	width: 1170px;
+}
+
+#s7 .wrap .stat-head{
+	width: 100%;
+}
+
+#s7 .wrap .stat-head h2{
+	font-size: 35px;
+	line-height: 35px;
+}
+
+#s7 .wrap .stat-head .buttons a div{
+	width: 9px;
+	height: 9px;
+}
+
+#s7 .wrap .stat-head .buttons a:first-child div{
+	width: 18px;
+	height: 18px;
+}
+
+#s7 .wrap .stat-con {
+	margin-top: 40px;
+	font-size: 26px;
+	line-height: 38px;
+	font-weight: 300;
+}
+
+#s7 .wrap .stat-body {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#s7 .wrap .blog{
+	width: 100%;
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#s7 .wrap .blog .blog-item {
+	margin: 0 auto;
+	margin-top: 30px;
+	width: 370px;
+
+}
+
+#s7 .wrap .blog .blog-foto{
+	width: 370px;
+	height: 213px;
+}
+
+#s7 .wrap .blog .blog-text a{
+    font-size: 19px;
+    line-height: 24px;
+
+}
+
+#s7 .wrap .blog .blog-text ul li{
+	padding-right: 12px;
+}
+#s7 .wrap .blog .blog-text ul li a{
+	font-size: 14px;
+	padding-right: 12px;
+}
+
+
+
+
+
+
+#s8 .wrap{
+	width: 1170px;
+	padding-top: 35px;
+	padding-bottom: 20px;
+	display: flex;
+	justify-content: space-between;
+
+}
+
+#s8 .wrap .feature {
+	margin-left: 15px;
+	width: 30%;
+}
+
+#s8 .wrap .feature .featblog .featblogitem {
+	margin-top: 30px;
+	display: flex;
+	justify-content: flex-start;
+	width: 95%;
+}
+
+#s8 .wrap .feature .featblog .featblogitem .txt {
+    margin-left: 15px;
+}
+
+#s8 .wrap .about {
+	margin: 0;
+
+	width: 31%;
+}
+
+#s8 .wrap .feature .abouthead h4{
+	font-size: 12.5px;
+	line-height: 17.5px;
+	padding-bottom: 10px;
+}
+
+
+
+#s8 .wrap .about .abouticon {
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	margin-top: 25px;
+	width: 100%;
+}
+
+
+
+#s8 .wrap .about .abouticon a i{
+	width: 30px
+	height: 30px;
+	line-height: 50px;
+	font-size: 18px;
+
+}
+
+#s8 .wrap .contact {
+	margin-top: 15px;
+	margin-left: 15px;
+	width: 28%;
+}
+
+
+
+}
+
+
+
+@media (min-width: 992px)  and  (max-width: 1200px)  {
+#s7{
+	width: 100%;
+}
+
+#s7 .wrap{
+	width: 970px;
+}
+
+#s7 .wrap .stat-head{
+	width: 100%;
+}
+
+#s7 .wrap .stat-head h2{
+	font-size: 35px;
+	line-height: 35px;
+}
+
+#s7 .wrap .stat-head .buttons a div{
+	width: 8px;
+	height: 8px;
+}
+
+#s7 .wrap .stat-head .buttons a:first-child div{
+	width: 16px;
+	height: 16px;
+}
+
+#s7 .wrap .stat-con {
+	margin-top: 40px;
+	font-size: 26px;
+	line-height: 38px;
+	font-weight: 300;
+}
+
+#s7 .wrap .stat-body {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#s7 .wrap .blog{
+	width: 100%;
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#s7 .wrap .blog .blog-item {
+	margin: 0 auto;
+	margin-top: 30px;
+	width: 303.33px;
+
+}
+
+#s7 .wrap .blog .blog-foto{
+	width: 303.33px;
+	height: 174px;
+}
+
+#s7 .wrap .blog .blog-text a{
+    font-size: 19px;
+    line-height: 24px;
+
+}
+
+#s7 .wrap .blog .blog-text ul li{
+	padding-right: 12px;
+}
+#s7 .wrap .blog .blog-text ul li a{
+	font-size: 14px;
+	padding-right: 12px;
+}
+
+
+
+
+
+
+#s8 .wrap{
+	width: 970px;
+	padding-top: 35px;
+	padding-bottom: 20px;
+	display: flex;
+	justify-content: space-between;
+
+}
+
+#s8 .wrap .feature {
+	margin-left: 15px;
+	width: 30%;
+}
+
+#s8 .wrap .feature .featblog .featblogitem {
+	margin-top: 30px;
+	display: flex;
+	justify-content: flex-start;
+	width: 95%;
+}
+
+#s8 .wrap .feature .featblog .featblogitem .txt {
+    margin-left: 15px;
+}
+
+#s8 .wrap .about {
+	margin: 0;
+
+	width: 31%;
+}
+
+#s8 .wrap .feature .abouthead h4{
+	font-size: 12.5px;
+	line-height: 17.5px;
+	padding-bottom: 10px;
+}
+
+
+
+#s8 .wrap .about .abouticon {
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	margin-top: 25px;
+	width: 100%;
+}
+
+
+
+#s8 .wrap .about .abouticon a i{
+	width: 30px
+	height: 30px;
+	line-height: 50px;
+	font-size: 18px;
+
+}
+
+#s8 .wrap .contact {
+	margin-top: 15px;
+	margin-left: 15px;
+	width: 28%;
+}
+
+
+
+}
+
+
+
+@media (min-width: 768px)  and  (max-width: 992px)  {
+#s7{
+	width: 100%;
+}
+
+#s7 .wrap{
+	width: 750px;
+}
+
+#s7 .wrap .stat-head{
+	width: 100%;
+}
+
+#s7 .wrap .stat-head h2{
+	font-size: 40px;
+	line-height: 40px;
+}
+
+#s7 .wrap .stat-head .buttons a div{
+	width: 7px;
+	height: 7px;
+}
+
+#s7 .wrap .stat-head .buttons a:first-child div{
+	width: 14px;
+	height: 14px;
+}
+
+#s7 .wrap .stat-con {
+	margin-top: 40px;
+	font-size: 17px;
+	line-height: 24px;
+}
+
+#s7 .wrap .stat-body {
+    font-size: 16px;
+
+}
+
+#s7 .wrap .blog{
+	width: 100%;
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#s7 .wrap .blog .blog-item {
+	margin: 0 auto;
+	margin-top: 30px;
+	width: 229.98px;
+
+}
+
+#s7 .wrap .blog .blog-foto{
+	width: 229.98px;
+	height: 132px;
+}
+
+#s7 .wrap .blog .blog-text a{
+    font-size: 15px;
+    line-height: 20px;
+
+}
+
+#s7 .wrap .blog .blog-text ul li{
+	padding-right: 12px;
+}
+#s7 .wrap .blog .blog-text ul li a{
+	font-size: 12px;
+	padding-right: 5px;
+}
+
+
+
+
+
+
+#s8 .wrap{
+	width: 750px;
+	padding-top: 35px;
+	padding-bottom: 20px;
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+
+}
+
+#s8 .wrap .feature {
+	margin-left: 15px;
+	width: 45%;
+}
+
+#s8 .wrap .feature .featblog .featblogitem {
+	margin-top: 30px;
+	display: flex;
+	justify-content: flex-start;
+	width: 95%;
+}
+
+#s8 .wrap .feature .featblog .featblogitem .txt {
+    margin-left: 15px;
+}
+
+#s8 .wrap .about {
+	margin: 0;
+	margin-left: 35px;
+	width: 40%;
+}
+
+#s8 .wrap .feature .abouthead h4{
+	font-size: 12.5px;
+	line-height: 17.5px;
+	padding-bottom: 10px;
+}
+
+
+
+#s8 .wrap .about .abouticon {
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	margin-top: 25px;
+	width: 100%;
+}
+
+
+
+#s8 .wrap .about .abouticon a i{
+	width: 30px
+	height: 30px;
+	line-height: 50px;
+	font-size: 18px;
+
+}
+
+#s8 .wrap .contact {
+	margin-top: 15px;
+	margin-left: 15px;
+	width: 93%;
+}
+
+
+
+}
+
+
+
+
+
+@media (min-width: 480px) and (max-width: 768px){
+
+#s7{
+	width: 100%;
+}
+
+#s7 .wrap{
+	width: 92%;
+}
+
+#s7 .wrap .stat-head{
+	width: 100%;
+}
+
+#s7 .wrap .stat-head h2{
+	font-size: 30px;
+	line-height: 32px;
+}
+
+#s7 .wrap .stat-head .buttons a div{
+	width: 6px;
+	height: 6px;
+}
+
+#s7 .wrap .stat-head .buttons a:first-child div{
+	width: 12px;
+	height: 12px;
+}
+
+#s7 .wrap .stat-con {
+	margin-top: 40px;
+	font-size: 17px;
+	line-height: 24px;
+}
+
+#s7 .wrap .stat-body {
+    font-size: 16px;
+
+}
+
+#s7 .wrap .blog{
+	width: 100%;
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#s7 .wrap .blog .blog-item {
+	margin: 0 auto;
+	margin-top: 30px;
+	width: 420px;
+
+}
+
+#s7 .wrap .blog .blog-foto{
+	width: 420px;
+	height: 242px;
+}
+
+#s7 .wrap .blog .blog-text a{
+    font-size: 15px;
+    line-height: 20px;
+
+}
+
+#s7 .wrap .blog .blog-text ul li{
+	padding-right: 12px;
+}
+#s7 .wrap .blog .blog-text ul li a{
+	font-size: 12px;
+}
+
+
+
+
+
+
+#s8 .wrap{
+	width: 100%;
+	padding-top: 35px;
+	padding-bottom: 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+}
+
+#s8 .wrap .feature {
+	margin-left: 15px;
+	width: 100%;
+}
+
+#s8 .wrap .feature .featblog .featblogitem {
+	margin-top: 30px;
+	display: flex;
+	justify-content: flex-start;
+	width: 95%;
+}
+
+#s8 .wrap .feature .featblog .featblogitem .txt {
+    margin-left: 15px;
+}
+
+#s8 .wrap .about {
+	margin: 0;
+	margin-top: 30px;
+	margin-left: 15px;
+	width: 90%;
+}
+
+#s8 .wrap .feature .abouthead h4{
+	font-size: 12.5px;
+	line-height: 17.5px;
+	padding-bottom: 10px;
+}
+
+
+
+#s8 .wrap .about .abouticon {
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	margin-top: 25px;
+	width: 100%;
+}
+
+
+
+#s8 .wrap .about .abouticon a i{
+	width: 30px
+	height: 30px;
+	line-height: 50px;
+	font-size: 18px;
+
+}
+
+#s8 .wrap .contact {
+	margin-top: 15px;
+	margin-left: 15px;
+	width: 93%;
+}
+
+
+
+}
+
+@media (min-width: 333px) and (max-width: 480px){
+
+
+#s7{
+	width: 100%;
+}
+
+#s7 .wrap{
+	width: 92%;
+}
+
+#s7 .wrap .stat-head{
+	width: 100%;
+}
+
+#s7 .wrap .stat-head h2{
+	font-size: 26px;
+	line-height: 26px;
+}
+
+#s7 .wrap .stat-head .buttons a div{
+	width: 5px;
+	height: 5px;
+}
+
+#s7 .wrap .stat-head .buttons a:first-child div{
+	width: 10px;
+	height: 10px;
+}
+
+#s7 .wrap .stat-con {
+	margin-top: 40px;
+	font-size: 17px;
+	line-height: 24px;
+}
+
+#s7 .wrap .stat-body {
+    font-size: 16px;
+
+}
+
+#s7 .wrap .blog{
+	width: 100%;
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#s7 .wrap .blog .blog-item {
+	margin: 0 auto;
+	margin-top: 30px;
+	width: 260px;
+
+}
+
+#s7 .wrap .blog .blog-foto{
+	width: 260px;
+	height: 150px;
+}
+
+#s7 .wrap .blog .blog-text a{
+    font-size: 15px;
+    line-height: 20px;
+
+}
+
+#s7 .wrap .blog .blog-text ul li{
+	padding-right: 12px;
+}
+#s7 .wrap .blog .blog-text ul li a{
+	font-size: 12px;
+}
+
+
+
+
+
+
+#s8 .wrap{
+	width: 100%;
+	padding-top: 35px;
+	padding-bottom: 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+}
+
+#s8 .wrap .feature {
+	margin-left: 15px;
+	width: 100%;
+}
+
+#s8 .wrap .feature .featblog .featblogitem {
+	margin-top: 30px;
+	display: flex;
+	justify-content: flex-start;
+	width: 95%;
+}
+
+#s8 .wrap .feature .featblog .featblogitem .txt {
+    margin-left: 15px;
+}
+
+#s8 .wrap .about {
+	margin: 0;
+	margin-top: 30px;
+	margin-left: 15px;
+	width: 90%;
+}
+
+#s8 .wrap .feature .abouthead h4{
+	font-size: 12.5px;
+	line-height: 17.5px;
+	padding-bottom: 10px;
+}
+
+
+
+#s8 .wrap .about .abouticon {
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	margin-top: 25px;
+	width: 100%;
+}
+
+
+
+#s8 .wrap .about .abouticon a i{
+	width: 30px
+	height: 30px;
+	line-height: 50px;
+	font-size: 18px;
+
+}
+
+#s8 .wrap .contact {
+	margin-top: 15px;
+	margin-left: 15px;
+	width: 93%;
+}
+
+
+
+}
+
+
+
+
+@media  (min-width: 264px) and (max-width: 333px){
+
+
+#s7{
+	width: 100%;
+}
+
+#s7 .wrap{
+	width: 92%;
+}
+
+#s7 .wrap .stat-head{
+	width: 100%;
+}
+
+#s7 .wrap .stat-head h2{
+	font-size: 26px;
+	line-height: 26px;
+}
+
+#s7 .wrap .stat-head .buttons a div{
+	width: 4px;
+	height: 4px;
+}
+
+#s7 .wrap .stat-head .buttons a:first-child div{
+	width: 8px;
+	height: 8px;
+}
+
+#s7 .wrap .stat-con {
+	margin-top: 40px;
+	font-size: 17px;
+	line-height: 24px;
+}
+
+#s7 .wrap .stat-body {
+    font-size: 16px;
+
+}
+
+#s7 .wrap .blog{
+	width: 100%;
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#s7 .wrap .blog .blog-item {
+	margin: 0 auto;
+	margin-top: 30px;
+	width: 260px;
+
+}
+
+#s7 .wrap .blog .blog-foto{
+	width: 260px;
+	height: 150px;
+}
+
+#s7 .wrap .blog .blog-text a{
+    font-size: 15px;
+    line-height: 20px;
+
+}
+
+#s7 .wrap .blog .blog-text ul li{
+	padding-right: 12px;
+}
+#s7 .wrap .blog .blog-text ul li a{
+	font-size: 12px;
+}
+
+
+
+
+
+
+#s8 .wrap{
+	width: 100%;
+	padding-top: 35px;
+	padding-bottom: 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+}
+
+#s8 .wrap .feature {
+	margin-left: 15px;
+	width: 100%;
+}
+
+#s8 .wrap .feature .featblog .featblogitem {
+	margin-top: 30px;
+	display: flex;
+	justify-content: flex-start;
+	width: 95%;
+}
+
+#s8 .wrap .feature .featblog .featblogitem .txt {
+    margin-left: 15px;
+}
+
+#s8 .wrap .about {
+	margin: 0;
+	margin-top: 30px;
+	margin-left: 15px;
+	width: 90%;
+}
+
+#s8 .wrap .feature .abouthead h4{
+	font-size: 12.5px;
+	line-height: 17.5px;
+	padding-bottom: 10px;
+}
+
+
+
+#s8 .wrap .about .abouticon {
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	margin-left: 20px;
+	margin-top: 25px;
+	width: 100%;
+}
+
+#s8 .wrap .about .abouticon a:last-child{
+	position: relative;
+	left: -10px;
+	top: 10px;
+
+}
+
+#s8 .wrap .about .abouticon a:first-child{
+	margin-left: 0px;
+
+}
+
+
+
+#s8 .wrap .about .abouticon a i{
+	width: 30px
+	height: 30px;
+	line-height: 50px;
+	font-size: 18px;
+
+}
+
+#s8 .wrap .contact {
+	margin-top: 15px;
+	margin-left: 15px;
+	width: 93%;
+}
+
+}
+
+
+
+@media  (max-width: 264px){
+
+
+#s7{
+	width: 100%;
+}
+
+#s7 .wrap{
+	width: 92%;
+}
+
+#s7 .wrap .stat-head{
+	width: 100%;
+}
+
+#s7 .wrap .stat-head h2{
+	font-size: 26px;
+	line-height: 26px;
+}
+
+#s7 .wrap .stat-head .buttons a div{
+	width: 5px;
+	height: 5px;
+}
+
+#s7 .wrap .stat-head .buttons a:first-child div{
+	width: 10px;
+	height: 10px;
+}
+
+#s7 .wrap .stat-con {
+	margin-top: 40px;
+	font-size: 17px;
+	line-height: 24px;
+}
+
+#s7 .wrap .stat-body {
+    font-size: 16px;
+
+}
+
+#s7 .wrap .blog{
+	width: 100%;
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#s7 .wrap .blog .blog-item {
+	margin: 0 auto;
+	margin-top: 30px;
+	width: 260px;
+
+}
+
+#s7 .wrap .blog .blog-foto{
+	width: 260px;
+	height: 150px;
+}
+
+#s7 .wrap .blog .blog-text a{
+    font-size: 15px;
+    line-height: 20px;
+
+}
+
+#s7 .wrap .blog .blog-text ul li{
+	padding-right: 12px;
+}
+#s7 .wrap .blog .blog-text ul li a{
+	font-size: 12px;
+}
+
+
+
+
+
+
+#s8 .wrap{
+	width: 100%;
+	padding-top: 35px;
+	padding-bottom: 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+}
+
+#s8 .wrap .feature {
+	margin-left: 15px;
+	width: 100%;
+}
+
+#s8 .wrap .feature .featblog .featblogitem {
+	margin-top: 30px;
+	display: flex;
+	justify-content: flex-start;
+	width: 95%;
+}
+
+#s8 .wrap .feature .featblog .featblogitem .txt {
+    margin-left: 15px;
+}
+
+#s8 .wrap .about {
+	margin: 0;
+	margin-top: 30px;
+	margin-left: 15px;
+	width: 90%;
+}
+
+#s8 .wrap .feature .abouthead h4{
+	font-size: 12.5px;
+	line-height: 17.5px;
+	padding-bottom: 10px;
+}
+
+
+
+#s8 .wrap .about .abouticon {
+	margin-left: 20px;
+	margin-top: 25px;
+	width: 100%;
+}
+
+#s8 .wrap .about .abouticon a:nth-child(4){
+	position: relative;
+	left: -10px;
+	top: 10px;
+}
+
+#s8 .wrap .about .abouticon a:last-child{
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	position: relative;
+	left: -10px;
+	top: 10px;
+}
+
+#s8 .wrap .about .abouticon a:first-child{
+	margin-left: 0px;
+
+}
+
+
+
+#s8 .wrap .about .abouticon a i{
+	width: 30px
+	height: 30px;
+	line-height: 50px;
+	font-size: 18px;
+
+}
+
+#s8 .wrap .contact {
+	margin-top: 15px;
+	margin-left: 15px;
+	width: 93%;
+}
+
+}
+
+@media  (max-width: 263px){
+
+	body{
+		display: none;
+	}
+}

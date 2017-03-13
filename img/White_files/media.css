@@ -1,0 +1,533 @@
+@media (max-width: 1170px)  {
+
+
+/* ---------------   S1  start   ------------------*/
+
+
+/* ---------------   S1  end   ------------------*/
+
+
+/* ---------------   S2  start   ------------------*/
+
+
+/* ---------------   S2  end   ------------------*/
+
+
+
+/* ---------------   S3  start   ------------------*/
+
+
+/* ---------------   S3  end   ------------------*/
+
+
+/* ---------------   S4  start   ------------------*/
+
+
+/* ---------------   S4  end   ------------------*/
+
+
+/* ---------------   S5  start   ------------------*/
+
+
+/* ---------------   S5  end   ------------------*/
+
+
+/* ---------------   S6  start   ------------------*/
+
+
+/* ---------------   S6  end   ------------------*/
+
+
+
+/* ---------------   S7  start   ------------------*/
+#s7{
+	width: 100%;
+}
+
+#s7 .wrap{
+	width: 100%;
+}
+
+
+
+/* ---------------   S7  end   ------------------*/
+
+
+/* ---------------   S8  start   ------------------*/
+
+
+/* ---------------   S8  end   ------------------*/
+
+
+
+}
+
+
+
+
+
+@media (min-width: 960px)  and  (max-width: 1170px)  {
+
+
+/* ---------------   S1  start   ------------------*/
+
+
+/* ---------------   S1  end   ------------------*/
+
+
+/* ---------------   S2  start   ------------------*/
+
+
+/* ---------------   S2  end   ------------------*/
+
+
+
+/* ---------------   S3  start   ------------------*/
+
+
+/* ---------------   S3  end   ------------------*/
+
+
+/* ---------------   S4  start   ------------------*/
+
+
+/* ---------------   S4  end   ------------------*/
+
+
+/* ---------------   S5  start   ------------------*/
+
+
+/* ---------------   S5  end   ------------------*/
+
+
+/* ---------------   S6  start   ------------------*/
+
+
+/* ---------------   S6  end   ------------------*/
+
+
+
+/* ---------------   S7  start   ------------------*/
+#s7{
+	width: 100%;
+}
+
+#s7 .wrap{
+	width: 100%;
+}
+
+#s7 .wrap .stat-head h2{
+	font-size: 35px;
+}
+
+#s7 .wrap .stat-head .buttons a div{
+	width: 8px;
+	height: 8px;
+}
+
+#s7 .wrap .stat-head .buttons a:first-child div{
+	width: 16px;
+	height: 16px;
+}
+
+#s7 .wrap .stat-con {
+	font-size: 22px;
+}
+
+#s7 .wrap .stat-body {
+    font-size: 15px;
+  
+}
+
+#s7 .wrap .blog{
+	margin-top: 50px;
+	display: flex;
+	justify-content: space-between;	
+	flex-wrap: wrap;
+}
+
+#s7 .wrap .blog .blog-item {
+	margin-top: 10px;
+	width: calc(33% - 10px);
+
+}	
+
+#s7 .wrap .blog .blog-foto{
+	height: 215px;
+}	
+
+#s7 .wrap .blog .blog-text a{
+    line-height: 34px;
+    font-size: 16px;
+
+}
+
+#s8 .wrap{
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+}
+
+#s8 .wrap .feature {
+	width: 32%;
+}
+
+#s8 .wrap .feature .feadblogitem {
+	width: 98%;
+}
+
+#s8 .wrap .about {
+	width: 25%;
+}
+
+#s8 .wrap .feature .abouthead h4{
+	font-size: 12.5px;
+	line-height: 17.5px;
+	padding-bottom: 10px;
+}
+
+#s8 .wrap .contact {
+	width: 32%;
+}
+
+
+
+
+
+
+/* ---------------   S7  end   ------------------*/
+
+
+/* ---------------   S8  start   ------------------*/
+
+
+/* ---------------   S8  end   ------------------*/
+
+
+
+
+}
+
+
+
+
+
+@media (min-width: 600px) and (max-width: 960px){
+
+
+/* ---------------   S1  start   ------------------*/
+
+
+/* ---------------   S1  end   ------------------*/
+
+
+/* ---------------   S2  start   ------------------*/
+
+
+/* ---------------   S2  end   ------------------*/
+
+
+
+/* ---------------   S3  start   ------------------*/
+
+
+/* ---------------   S3  end   ------------------*/
+
+
+/* ---------------   S4  start   ------------------*/
+
+
+/* ---------------   S4  end   ------------------*/
+
+
+/* ---------------   S5  start   ------------------*/
+
+
+/* ---------------   S5  end   ------------------*/
+
+
+/* ---------------   S6  start   ------------------*/
+
+
+/* ---------------   S6  end   ------------------*/
+
+
+
+/* ---------------   S7  start   ------------------*/
+#s7{
+	width: 100%;
+}
+
+#s7 .wrap{
+	width: 100%;
+}
+
+#s7 .wrap .stat-head{
+	width: 100%;
+}
+
+#s7 .wrap .stat-head h2{
+	font-size: 20px;
+}	
+
+#s7 .wrap .stat-head .buttons a div{
+	width: 5px;
+	height: 5px;
+}
+
+#s7 .wrap .stat-head .buttons a:first-child div{
+	width: 10px;
+	height: 10px;
+}
+
+#s7 .wrap .stat-con {
+	font-size: 14px;
+	line-height: 22px;
+}
+
+#s7 .wrap .stat-body {
+    font-size: 14px;
+  
+}
+
+#s7 .wrap .blog{
+	margin-top: 50px;
+	display: flex;
+	justify-content: space-between;	
+	flex-wrap: wrap;
+}
+
+#s7 .wrap .blog .blog-item {
+	margin-top: 10px;
+	width: calc(50% - 10px);
+
+}	
+
+#s7 .wrap .blog .blog-text a{
+    line-height: 34px;
+    font-size: 16px;
+
+}
+
+#s8 .wrap{
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+}
+
+#s8 .wrap .feature {
+	width: 50%;
+}
+
+#s8 .wrap .feature .feadblogitem {
+	width: 98%;
+}
+
+#s8 .wrap .about {
+	width: 50%;
+}
+
+#s8 .wrap .feature .abouthead h4{
+	font-size: 12.5px;
+	line-height: 17.5px;
+	padding-bottom: 10px;
+}
+
+#s8 .wrap .contact {
+	width: 100%;
+}
+
+
+
+
+
+/* ---------------   S7  end   ------------------*/
+
+
+/* ---------------   S8  start   ------------------*/
+
+
+/* ---------------   S8  end   ------------------*/
+
+
+}
+
+@media (max-width: 600px){
+
+
+/* ---------------   S1  start   ------------------*/
+
+
+/* ---------------   S1  end   ------------------*/
+
+
+/* ---------------   S2  start   ------------------*/
+
+
+/* ---------------   S2  end   ------------------*/
+
+
+
+/* ---------------   S3  start   ------------------*/
+
+
+/* ---------------   S3  end   ------------------*/
+
+
+/* ---------------   S4  start   ------------------*/
+
+
+/* ---------------   S4  end   ------------------*/
+
+
+/* ---------------   S5  start   ------------------*/
+
+
+/* ---------------   S5  end   ------------------*/
+
+
+/* ---------------   S6  start   ------------------*/
+
+
+/* ---------------   S6  end   ------------------*/
+
+
+
+/* ---------------   S7  start   ------------------*/
+#s7{
+	width: 100%;
+}
+
+#s7 .wrap{
+	width: 100%;
+}
+
+#s7 .wrap .stat-head{
+	width: 100%;
+}
+
+#s7 .wrap .stat-head h2{
+	font-size: 20px;
+}	
+
+#s7 .wrap .stat-head .buttons a div{
+	width: 4px;
+	height: 4px;
+}
+
+#s7 .wrap .stat-head .buttons a:first-child div{
+	width: 8px;
+	height: 8px;
+}
+
+#s7 .wrap .stat-con {
+	font-size: 12px;
+	line-height: 20px;
+}
+
+#s7 .wrap .stat-body {
+    font-size: 13px;
+  
+}
+
+#s7 .wrap .blog{
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;	
+	flex-wrap: wrap;
+}
+
+#s7 .wrap .blog .blog-item {
+	margin: 0 auto;
+	width: 80%;
+
+}	
+
+#s7 .wrap .blog .blog-foto{
+	height: 215px;
+}	
+
+#s7 .wrap .blog .blog-text a{
+    font-size: 14px;
+
+}	
+
+#s7 .wrap .blog .blog-text ul li{
+	padding-right: 12px;
+}
+
+
+
+/* ---------------   S7  end   ------------------*/
+
+
+/* ---------------   S8  start   ------------------*/
+
+#s8 .wrap{
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+}
+
+#s8 .wrap .feature {
+	margin-left: 10px;
+	width: 100%;
+}
+
+#s8 .wrap .feature .feadblogitem {
+	width: 98%;
+}
+
+#s8 .wrap .about {
+	margin: 0;
+	margin-left: 10px;
+	width: 98%;
+}
+
+#s8 .wrap .feature .abouthead h4{
+	font-size: 12.5px;
+	line-height: 17.5px;
+	padding-bottom: 10px;
+}
+
+#s8 .wrap .contact {
+	margin-left: 10px;
+	width: 98%;
+}
+
+#s8 .wrap .about .abouticon {
+	width: 100%;
+}
+
+
+
+#s8 .wrap .about .abouticon a i{
+	width: 30px
+	height: 30px;
+	line-height: 50px;
+	font-size: 18px;
+
+}
+
+
+
+
+
+/* ---------------   S8  end   ------------------*/
+
+
+
+
+}
